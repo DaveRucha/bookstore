@@ -1,0 +1,22 @@
+{
+    "users": [
+      {
+        "uname": "Riya",
+        "age": 22,
+        "address":"Adajan Surat",
+        "email": "Riya21@gmail.com"
+      },
+      {
+        "uname": "Mihir",
+        "age": 21,
+        "address":"Navarangpura ahmedabad",
+        "email": "mh23@gmail.com"
+      },
+      {
+        "uname": "nisha",
+        "age": 25,
+        "address":"Ambawadi Ahmedabad",
+        "email": "nisha33@gmail.com.com"
+      }
+    ]
+  }
